@@ -18,7 +18,7 @@ function App() {
 
   return (
     <>
-    <Navbar title="TextForge" mode={mode} togglemode={togglemode}/>
+    <Navbar title="SyntaxBard" mode={mode} togglemode={togglemode}/>
     <Textform header="Enter the text" mode={mode} togglemode={togglemode}/>
     </>
     
