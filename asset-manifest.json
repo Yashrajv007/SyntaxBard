@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/SyntaxBard/static/css/main.f855e6bc.css",
-    "main.js": "/SyntaxBard/static/js/main.963778dd.js",
+    "main.js": "/SyntaxBard/static/js/main.dc00dfd0.js",
     "static/js/787.1d12c390.chunk.js": "/SyntaxBard/static/js/787.1d12c390.chunk.js",
     "index.html": "/SyntaxBard/index.html",
     "main.f855e6bc.css.map": "/SyntaxBard/static/css/main.f855e6bc.css.map",
-    "main.963778dd.js.map": "/SyntaxBard/static/js/main.963778dd.js.map",
+    "main.dc00dfd0.js.map": "/SyntaxBard/static/js/main.dc00dfd0.js.map",
     "787.1d12c390.chunk.js.map": "/SyntaxBard/static/js/787.1d12c390.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.963778dd.js"
+    "static/js/main.dc00dfd0.js"
   ]
 }
